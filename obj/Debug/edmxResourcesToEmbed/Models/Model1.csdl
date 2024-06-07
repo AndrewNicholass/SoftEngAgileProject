@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Choice">
+    <Key>
+      <PropertyRef Name="ChoiceId" />
+    </Key>
+    <Property Name="ChoiceId" Type="Int32" Nullable="false" />
+    <Property Name="QuestionId" Type="Int32" Nullable="false" />
+    <Property Name="ChoiceText" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Correct" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Question" Relationship="Self.FK_Choice_Question" FromRole="Choice" ToRole="Question" />
+  </EntityType>
+  <EntityType Name="Question">
+    <Key>
+      <PropertyRef Name="QuestionId" />
+    </Key>
+    <Property Name="QuestionId" Type="Int32" Nullable="false" />
+    <Property Name="ModuleId" Type="Int32" Nullable="false" />
+    <Property Name="QuestionText" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Point" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Choices" Relationship="Self.FK_Choice_Question" FromRole="Question" ToRole="Choice" />
+    <NavigationProperty Name="Module" Relationship="Database1Model.FK_Question_Module" FromRole="Question" ToRole="Module" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="UserModuleDetails" Relationship="Self.FK_UserModuleDetail_User" FromRole="User" ToRole="UserModuleDetail" />
+  </EntityType>
+  <EntityType Name="UserModuleDetail">
+    <Key>
+      <PropertyRef Name="UserModuleId" />
+    </Key>
+    <Property Name="UserModuleId" Type="Int32" Nullable="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="ModuleId" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="Self.FK_UserModuleDetail_User" FromRole="UserModuleDetail" ToRole="User" />
+    <NavigationProperty Name="Module" Relationship="Database1Model.FK_UserModuleDetail_Module" FromRole="UserModuleDetail" ToRole="Module" />
+  </EntityType>
+  <Association Name="FK_Choice_Question">
+    <End Role="Question" Type="Self.Question" Multiplicity="1" />
+    <End Role="Choice" Type="Self.Choice" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Question">
+        <PropertyRef Name="QuestionId" />
+      </Principal>
+      <Dependent Role="Choice">
+        <PropertyRef Name="QuestionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserModuleDetail_User">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="UserModuleDetail" Type="Self.UserModuleDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="UserModuleDetail">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Database1Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Choices" EntityType="Self.Choice" />
+    <EntitySet Name="Questions" EntityType="Self.Question" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <EntitySet Name="UserModuleDetails" EntityType="Self.UserModuleDetail" />
+    <AssociationSet Name="FK_Choice_Question" Association="Self.FK_Choice_Question">
+      <End Role="Question" EntitySet="Questions" />
+      <End Role="Choice" EntitySet="Choices" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserModuleDetail_User" Association="Self.FK_UserModuleDetail_User">
+      <End Role="User" EntitySet="Users" />
+      <End Role="UserModuleDetail" EntitySet="UserModuleDetails" />
+    </AssociationSet>
+    <EntitySet Name="Modules" EntityType="Database1Model.Module" />
+    <AssociationSet Name="FK_Question_Module" Association="Database1Model.FK_Question_Module">
+      <End Role="Module" EntitySet="Modules" />
+      <End Role="Question" EntitySet="Questions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserModuleDetail_Module" Association="Database1Model.FK_UserModuleDetail_Module">
+      <End Role="Module" EntitySet="Modules" />
+      <End Role="UserModuleDetail" EntitySet="UserModuleDetails" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Module">
+    <Key>
+      <PropertyRef Name="ModuleId" />
+    </Key>
+    <Property Name="ModuleId" Type="Int32" Nullable="false" />
+    <Property Name="ModuleTitle" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ModuleVideoLink" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Questions" Relationship="Database1Model.FK_Question_Module" FromRole="Module" ToRole="Question" />
+    <NavigationProperty Name="UserModuleDetails" Relationship="Database1Model.FK_UserModuleDetail_Module" FromRole="Module" ToRole="UserModuleDetail" />
+  </EntityType>
+  <Association Name="FK_Question_Module">
+    <End Type="Database1Model.Module" Role="Module" Multiplicity="1" />
+    <End Type="Database1Model.Question" Role="Question" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Module">
+        <PropertyRef Name="ModuleId" />
+      </Principal>
+      <Dependent Role="Question">
+        <PropertyRef Name="ModuleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserModuleDetail_Module">
+    <End Type="Database1Model.Module" Role="Module" Multiplicity="1" />
+    <End Type="Database1Model.UserModuleDetail" Role="UserModuleDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Module">
+        <PropertyRef Name="ModuleId" />
+      </Principal>
+      <Dependent Role="UserModuleDetail">
+        <PropertyRef Name="ModuleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

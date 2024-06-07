@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="Database1Entities">
+    <EntitySetMapping Name="Choices">
+      <EntityTypeMapping TypeName="Database1Model.Choice">
+        <MappingFragment StoreEntitySet="Choice">
+          <ScalarProperty Name="ChoiceId" ColumnName="ChoiceId" />
+          <ScalarProperty Name="QuestionId" ColumnName="QuestionId" />
+          <ScalarProperty Name="ChoiceText" ColumnName="ChoiceText" />
+          <ScalarProperty Name="Correct" ColumnName="Correct" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Questions">
+      <EntityTypeMapping TypeName="Database1Model.Question">
+        <MappingFragment StoreEntitySet="Question">
+          <ScalarProperty Name="QuestionId" ColumnName="QuestionId" />
+          <ScalarProperty Name="ModuleId" ColumnName="ModuleId" />
+          <ScalarProperty Name="QuestionText" ColumnName="QuestionText" />
+          <ScalarProperty Name="Point" ColumnName="Point" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Database1Model.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserModuleDetails">
+      <EntityTypeMapping TypeName="Database1Model.UserModuleDetail">
+        <MappingFragment StoreEntitySet="UserModuleDetail">
+          <ScalarProperty Name="UserModuleId" ColumnName="UserModuleId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="ModuleId" ColumnName="ModuleId" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Modules">
+      <EntityTypeMapping TypeName="Database1Model.Module">
+        <MappingFragment StoreEntitySet="Module">
+          <ScalarProperty Name="ModuleVideoLink" ColumnName="ModuleVideoLink" />
+          <ScalarProperty Name="ModuleTitle" ColumnName="ModuleTitle" />
+          <ScalarProperty Name="ModuleId" ColumnName="ModuleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

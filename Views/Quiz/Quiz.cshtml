@@ -1,0 +1,24 @@
+﻿@model Fluentify.ViewModels.QuizViewModel
+@{
+    ViewBag.Title = "Quiz";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+}
+
+<div>
+    @foreach(var item in Model.Modules)
+            {
+                <h2>@item.ModuleTitle</h2>
+                <a>@item.ModuleVideoLink</a>
+                foreach(var question in Model.Question)
+                {
+                    <h1>@question.QuestionText</h1>
+                    foreach(var choices in Model.Choices)
+                    {
+                        <div>
+                            <input id="Radio1" type="radio" />@choices.ChoiceText<br />
+                        </div>
+                    }
+                }
+            }
+</div>
+

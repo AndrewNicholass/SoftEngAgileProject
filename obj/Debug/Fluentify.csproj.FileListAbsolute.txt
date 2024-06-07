@@ -1,0 +1,230 @@
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\Fluentify.dll.config
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\Fluentify.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\Fluentify.pdb
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\csc.exe
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\csc.exe.config
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\csc.rsp
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\csi.exe
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\csi.exe.config
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\csi.rsp
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.AppContext.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Collections.Immutable.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Console.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Globalization.Calendars.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.IO.Compression.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.IO.FileSystem.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Net.Http.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Net.Sockets.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Reflection.Metadata.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.ValueTuple.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Xml.XPath.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\vbc.exe
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\vbc.exe.config
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\vbc.rsp
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\VBCSCompiler.exe
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\roslyn\VBCSCompiler.exe.config
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\Microsoft.Web.Infrastructure.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Helpers.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Mvc.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Razor.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Webpages.Deployment.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Webpages.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Webpages.Razor.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Razor.xml
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Webpages.xml
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Webpages.Deployment.xml
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Webpages.Razor.xml
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Helpers.xml
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\System.Web.Mvc.xml
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\obj\Debug\Fluentify.csproj.AssemblyReference.cache
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\obj\Debug\Fluentify.csproj.CoreCompileInputs.cache
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\obj\Debug\Fluentify.csproj.Up2Date
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\obj\Debug\Fluentify.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\obj\Debug\Fluentify.pdb
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\EntityFramework.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\EntityFramework.SqlServer.dll
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\EntityFramework.xml
+E:\Binus\Semester 4\SE\FluentifyProject1\Fluentify\bin\EntityFramework.SqlServer.xml
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\Fluentify.dll.config
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\Fluentify.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\Fluentify.pdb
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\csc.exe
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\csc.exe.config
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\csc.rsp
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\csi.exe
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\csi.exe.config
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\csi.rsp
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.AppContext.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Console.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Net.Http.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\vbc.exe
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\vbc.exe.config
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\vbc.rsp
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\EntityFramework.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\EntityFramework.SqlServer.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Helpers.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Mvc.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Razor.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Webpages.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Webpages.Razor.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\EntityFramework.xml
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\EntityFramework.SqlServer.xml
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Razor.xml
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Webpages.xml
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Webpages.Razor.xml
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Helpers.xml
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\System.Web.Mvc.xml
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\obj\Debug\Fluentify.csproj.AssemblyReference.cache
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\obj\Debug\Fluentify.csproj.CoreCompileInputs.cache
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\obj\Debug\Fluentify.csproj.CopyComplete
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\obj\Debug\Fluentify.dll
+C:\Users\Hendra\Downloads\Fluentify\Fluentify\obj\Debug\Fluentify.pdb
+E:\DATA C\Documents\Binus File\Binus File\Semester\Semester 4\Software Engineering\Code Hendra\Fluentify_030624_register\Fluentify\Fluentify\obj\Debug\Fluentify.dll
+E:\DATA C\Documents\Binus File\Binus File\Semester\Semester 4\Software Engineering\Code Hendra\Fluentify_030624_register\Fluentify\Fluentify\obj\Debug\Fluentify.pdb
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\Fluentify.dll.config
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\Fluentify.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\Fluentify.pdb
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\csc.exe
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\csc.exe.config
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\csc.rsp
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\csi.exe
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\csi.exe.config
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\csi.rsp
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.AppContext.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Collections.Immutable.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Console.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Globalization.Calendars.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.IO.Compression.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.IO.FileSystem.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Net.Http.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Net.Sockets.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Reflection.Metadata.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.ValueTuple.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Xml.XPath.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\vbc.exe
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\vbc.exe.config
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\vbc.rsp
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\VBCSCompiler.exe
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\roslyn\VBCSCompiler.exe.config
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\EntityFramework.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\EntityFramework.SqlServer.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\Microsoft.Web.Infrastructure.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Helpers.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Mvc.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Razor.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Webpages.Deployment.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Webpages.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Webpages.Razor.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\EntityFramework.xml
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\EntityFramework.SqlServer.xml
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Razor.xml
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Webpages.xml
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Webpages.Deployment.xml
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Webpages.Razor.xml
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Helpers.xml
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\System.Web.Mvc.xml
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\obj\Debug\Fluentify.csproj.AssemblyReference.cache
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\obj\Debug\Fluentify.csproj.CoreCompileInputs.cache
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\obj\Debug\Fluentify.csproj.Up2Date
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\obj\Debug\Fluentify.dll
+E:\Binus\Semester 4\SE\FluentifyPush\Fluentify_030624_register (2)\Fluentify_030624_register\Fluentify\Fluentify\obj\Debug\Fluentify.pdb
