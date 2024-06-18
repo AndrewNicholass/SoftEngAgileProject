@@ -12,8 +12,9 @@ namespace Fluentify.Controllers
     {
         Database1Entities db = new Database1Entities();
         // GET: Quiz
-        public ActionResult Quiz()
+        public ActionResult Quiz(int moduleId)
         {
+            ViewBag.ModuleId = moduleId;
             QuizViewModel vm = new QuizViewModel();
             vm.Modules = (from x in db.Modules select x).ToList();
             vm.Question = db.Questions.ToList();
