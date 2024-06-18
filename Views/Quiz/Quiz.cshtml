@@ -5,20 +5,33 @@
 }
 
 <div>
-    @foreach(var item in Model.Modules)
+    @foreach (var item in Model.Modules)
+    {
+        if (item.ModuleId == ViewBag.ModuleId)
+        {
+            <h2>@item.ModuleTitle</h2>
+            <iframe src="@item.ModuleVideoLink"></iframe>
+            foreach (var question in Model.Question)
             {
-                <h2>@item.ModuleTitle</h2>
-                <a>@item.ModuleVideoLink</a>
-                foreach(var question in Model.Question)
+                if (question.ModuleId == ViewBag.ModuleId)
                 {
                     <h1>@question.QuestionText</h1>
-                    foreach(var choices in Model.Choices)
+                    foreach (var choices in Model.Choices)
                     {
-                        <div>
-                            <input id="Radio1" type="radio" />@choices.ChoiceText<br />
-                        </div>
+                        if (choices.QuestionId == question.QuestionId)
+                        {
+                            <div>
+                                <input id="Radio1" type="radio" value="@choices.ChoiceText"/>@choices.ChoiceText<br />
+                            </div>
+                        }
                     }
                 }
             }
+        }
+    }
+</div>
+
+<div>
+    <input type="submit" value="Submit Answers"/>
 </div>
 
