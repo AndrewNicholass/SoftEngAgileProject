@@ -3,6 +3,11 @@
     ViewBag.Title = "Quiz";
     Layout = "~/Views/_LayoutPage1.cshtml";
 }
+<style>
+    #Radio1{
+        -webkit-appearance:radio;
+    }
+</style>
 
 <div>
     @foreach (var item in Model.Modules)
