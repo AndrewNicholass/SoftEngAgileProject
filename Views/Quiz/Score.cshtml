@@ -1,8 +1,44 @@
-﻿@model Fluentify.ViewModels.ScoreViewModel
+@model Fluentify.ViewModels.ScoreViewModel
 @{
     ViewBag.Title = "Score";
     Layout = "~/Views/_LayoutPage1.cshtml";
 }
 
-<h2>Your Score: @Model.Score</h2>
+<style>
 
+    .score-container {
+       
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+       
+        margin-top:150px;
+    }
+    .score-body {
+        
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin: 0 auto;
+        width: 150px; 
+        height: 150px;
+        padding: 20px; 
+        border-radius: 50%;
+        background-color: #f50057;
+       
+    }
+
+    .score-body h2{
+        color:white;
+       
+    }
+</style>
+<div class="score-container">
+    
+    <h2>You Score:</h2>
+    <div class="score-body">
+        <h2>@Model.Score</h2>
+    </div>
+    
+</div>

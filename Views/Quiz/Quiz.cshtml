@@ -1,4 +1,4 @@
-﻿@model Fluentify.ViewModels.QuizViewModel
+@model Fluentify.ViewModels.QuizViewModel
 @{
     ViewBag.Title = "Quiz";
     Layout = "~/Views/_LayoutPage1.cshtml";
@@ -7,37 +7,135 @@
     #Radio1{
         -webkit-appearance:radio;
     }
+
+    .form-container{
+        width:100vw;
+        height:100%;
+        margin-top:100px;
+    }
+
+    .title {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin: 0 auto;
+        width: 80%; 
+        padding: 20px; 
+    }
+
+        
+    .title h2 {
+        margin-bottom: 20px;
+    }
+
+    
+    .video-frame {
+        width: 100%;
+        max-width: 800px; 
+        aspect-ratio: 16 / 9; 
+        overflow: hidden;
+        border-radius: 15px; 
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom:30px;
+    }
+
+   
+    .video-frame iframe {
+        width: 100%;
+        height: 100%;
+        border: none;  
+    }
+
+    .question-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+        width: 100%;
+        padding: 20px; 
+    }
+
+    .question {
+        width: 80%; 
+        border: 1px solid black;
+        padding: 20px; 
+        margin-bottom: 20px; 
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+        border-radius: 5px; 
+        background-color: #f9f9f9; 
+    }
+
+    .option {
+        margin-bottom: 10px; 
+    }
+
+    .option input[type="radio"] {
+        margin-right: 10px; 
+    }
+
+    .submit-button {
+        display: flex;
+        justify-content: center; 
+        margin-top: 20px;
+    }
+
+    .submit-button input[type="submit"] {
+        padding: 10px 20px; 
+        border-radius: 30px; 
+        border: 1px solid #ccc; 
+        background-color: #f50057; 
+        color: white; 
+        font-size: 16px; 
+        cursor: pointer; 
+        transition: background-color 0.3s ease; 
+    }       
+
+    .submit-button input[type="submit"]:hover {
+        background-color: #e40000; 
+    }
 </style>
 
-<form action="@Url.Action("Score", "Quiz")" method="post">
-    @foreach (var item in Model.Modules)
-    {
-        if (item.ModuleId == ViewBag.ModuleId)
+<div class="form-container">
+    <form action="@Url.Action("Score", "Quiz")" method="post">
+        @foreach (var item in Model.Modules)
         {
-            <h2>@item.ModuleTitle</h2>
-            <iframe src="@item.ModuleVideoLink"></iframe>
-            foreach (var question in Model.Question)
+            if (item.ModuleId == ViewBag.ModuleId)
             {
-                if (question.ModuleId == ViewBag.ModuleId)
-                {
-                    <h1>@question.QuestionText</h1>
-                    foreach (var choices in Model.Choices)
+                <div class="title">
+                    <h2>@item.ModuleTitle</h2>
+
+                    <div class="video-frame">
+                        <iframe src="@item.ModuleVideoLink"></iframe>   
+
+                    </div>
+                </div>
+                <div class="question-container">
+
+                    @foreach (var question in Model.Question)
                     {
-                        <div>
-                            @if (choices.QuestionId == question.QuestionId)
-                            {
-                                <input id="Radio1" type="radio" name="@choices.QuestionId" value="@choices.Correct" /> <label>@choices.ChoiceText<br /></label>
-                            }
-                        </div>
+                        if (question.ModuleId == ViewBag.ModuleId)
+                        {
+                            <div class="question">
+                                <h2>@question.QuestionText</h2>
+                                @foreach (var choices in Model.Choices)
+                                {
+                                    <div class="option">
+                                        @if (choices.QuestionId == question.QuestionId)
+                                        {
+                                            <input id="Radio1" type="radio" name="@choices.QuestionId" value="@choices.Correct" /> <label>@choices.ChoiceText<br /></label>
+                                        }
+                                    </div>
+                                }
+                            </div>
+                          
+                        }
                     }
-                }
+                </div>
             }
         }
-    }
-    <div>
-        <input type="submit" value="Submit Answers" />
-    </div>
-</form>
-
-
-
+        <div class="submit-button">
+            <input type="submit" value="Submit Answers" />
+        </div>
+    </form>
+</div>
