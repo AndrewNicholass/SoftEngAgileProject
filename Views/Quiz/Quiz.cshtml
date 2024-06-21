@@ -9,7 +9,10 @@
     }
 </style>
 
-<div>
+<form action="@Url.Action("Score", "Quiz")"> 
+    @{
+        int score = 0;
+    }
     @foreach (var item in Model.Modules)
     {
         if (item.ModuleId == ViewBag.ModuleId)
@@ -23,20 +26,21 @@
                     <h1>@question.QuestionText</h1>
                     foreach (var choices in Model.Choices)
                     {
-                        if (choices.QuestionId == question.QuestionId)
-                        {
-                            <div>
-                                <input id="Radio1" type="radio" value="@choices.ChoiceText"/>@choices.ChoiceText<br />
-                            </div>
-                        }
+                        <div>
+                            @if (choices.QuestionId == question.QuestionId)
+                            {
+                                <input id="Radio1" type="radio" name="@choices.QuestionId" value="@choices.Correct" />@choices.ChoiceText<br />
+                            }
+                        </div>
                     }
                 }
             }
         }
     }
-</div>
+    <div>
+        <input type="submit" value="Submit Answers" />
+    </div>
+</form>
 
-<div>
-    <input type="submit" value="Submit Answers"/>
-</div>
+
 
