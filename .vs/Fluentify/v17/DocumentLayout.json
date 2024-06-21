@@ -3,20 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\views\\quiz\\quiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|solutionrelative:views\\quiz\\quiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|c:\\users\\fino\\documents\\github\\softengagileproject\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|solutionrelative:controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|c:\\users\\fino\\documents\\github\\softengagileproject\\views\\quiz\\score.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|solutionrelative:views\\quiz\\score.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\views\\quiz\\quiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|solutionrelative:views\\quiz\\quiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\views\\home\\modules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|solutionrelative:views\\home\\modules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|c:\\users\\fino\\documents\\github\\softengagileproject\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|solutionrelative:controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FINO_DOCUMENTS_GITHUB_SOFTENGAGILEPROJECT_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Question.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FINO_DOCUMENTS_GITHUB_SOFTENGAGILEPROJECT_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Choice.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|c:\\users\\fino\\documents\\github\\softengagileproject\\viewmodels\\scoreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|solutionrelative:viewmodels\\scoreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3FD6C0-52CF-46CB-B9BA-B2BE4D608091}|Fluentify.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,49 +48,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Modules.cshtml",
-              "DocumentMoniker": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Views\\Home\\Modules.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Modules.cshtml",
-              "ToolTip": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Views\\Home\\Modules.cshtml",
-              "RelativeToolTip": "Views\\Home\\Modules.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Score.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Views\\Quiz\\Score.cshtml",
+              "RelativeDocumentMoniker": "Views\\Quiz\\Score.cshtml",
+              "ToolTip": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Views\\Quiz\\Score.cshtml",
+              "RelativeToolTip": "Views\\Quiz\\Score.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T05:06:59.928Z"
+              "WhenOpened": "2024-06-21T10:49:18.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "ScoreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\ViewModels\\ScoreViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ScoreViewModel.cs",
+              "ToolTip": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\ViewModels\\ScoreViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ScoreViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T10:48:04.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Choice [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FINO_DOCUMENTS_GITHUB_SOFTENGAGILEPROJECT_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Choice.sql",
+              "ToolTip": "dbo.Choice [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-21T09:51:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Question [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FINO_DOCUMENTS_GITHUB_SOFTENGAGILEPROJECT_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Question.sql",
+              "ToolTip": "dbo.Question [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-21T09:47:34.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:51:25.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:51:21.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Quiz.cshtml",
               "DocumentMoniker": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Views\\Quiz\\Quiz.cshtml",
               "RelativeDocumentMoniker": "Views\\Quiz\\Quiz.cshtml",
               "ToolTip": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Views\\Quiz\\Quiz.cshtml",
               "RelativeToolTip": "Views\\Quiz\\Quiz.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-21T04:44:08.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Modules.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Views\\Home\\Modules.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Modules.cshtml",
+              "ToolTip": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Views\\Home\\Modules.cshtml",
+              "RelativeToolTip": "Views\\Home\\Modules.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T05:06:59.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "QuizController.cs",
               "DocumentMoniker": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Controllers\\QuizController.cs",
               "RelativeDocumentMoniker": "Controllers\\QuizController.cs",
               "ToolTip": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Controllers\\QuizController.cs",
               "RelativeToolTip": "Controllers\\QuizController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAaAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T05:04:54.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Fino\\Documents\\GitHub\\SoftEngAgileProject\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -76,7 +171,8 @@
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T04:42:38.428Z"
+              "WhenOpened": "2024-06-21T04:42:38.428Z",
+              "EditorCaption": ""
             }
           ]
         }

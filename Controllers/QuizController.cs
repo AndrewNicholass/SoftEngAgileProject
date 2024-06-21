@@ -23,10 +23,19 @@ namespace Fluentify.Controllers
         }
 
         [HttpPost]
-        public ActionResult Score(QuizViewModel model)
+        public ActionResult Score(FormCollection frm)
         {
+            Database1Entities db = new Database1Entities();
             int score = 0;
-            return View();
+            int lastQuestionId = (from x in db.Questions orderby x.QuestionId descending select x.QuestionId).FirstOrDefault();
+            for (int i = 0; i < lastQuestionId; i++) 
+            {
+                string choiceRadio = frm[i];
+                score += Convert.ToInt32(choiceRadio);
+            }
+            ScoreViewModel scoreViewModel = new ScoreViewModel();
+            scoreViewModel.Score = score*10;
+            return View(scoreViewModel);
         }
     }
 }

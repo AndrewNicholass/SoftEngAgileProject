@@ -9,10 +9,7 @@
     }
 </style>
 
-<form action="@Url.Action("Score", "Quiz")"> 
-    @{
-        int score = 0;
-    }
+<form action="@Url.Action("Score", "Quiz")" method="post">
     @foreach (var item in Model.Modules)
     {
         if (item.ModuleId == ViewBag.ModuleId)
@@ -29,7 +26,7 @@
                         <div>
                             @if (choices.QuestionId == question.QuestionId)
                             {
-                                <input id="Radio1" type="radio" name="@choices.QuestionId" value="@choices.Correct" />@choices.ChoiceText<br />
+                                <input id="Radio1" type="radio" name="@choices.QuestionId" value="@choices.Correct" /> <label>@choices.ChoiceText<br /></label>
                             }
                         </div>
                     }
