@@ -21,5 +21,12 @@ namespace Fluentify.Controllers
             vm.Choices = db.Choices.ToList();
             return View(vm);
         }
+
+        [HttpPost]
+        public ActionResult Score(QuizViewModel model)
+        {
+            int score = 0;
+            return View();
+        }
     }
 }
